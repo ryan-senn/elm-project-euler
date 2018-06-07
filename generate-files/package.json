@@ -1,0 +1,22 @@
+{
+  "name": "project-euler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "directories": {},
+  "dependencies": {},
+  "devDependencies": {
+    "fs": "0.0.1-security"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryan-senn/project-euler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryan-senn/project-euler/issues"
+  },
+  "homepage": "https://github.com/ryan-senn/project-euler#readme"
+}
